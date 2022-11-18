@@ -25,7 +25,7 @@ const getValueInput = () => {
         window.navigator.vibrate(200);
         alert("¡ATENCION!\nEstás a punto de ver algunos datos de Algunos compañeros\npor tu seguridad no compartas ninguna información...")
         /* open("D:/HACKER/Hack/ANONYMOUS/Thezero/test/index3.html") */
-        open("Cepre-Aula101/index3.html")
+        open("/Cepre-Aula101/index3.html")
         navigator.vibrate = navigator.vibrate || navigator.webkitVibrate || navigator.mozVibrate || navigator.msVibrate;
         if (navigator.vibrate) {
             navigator.vibrate([500, 250, 100, 1000]);
